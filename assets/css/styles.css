@@ -200,5 +200,9 @@ TABLE.CSVTable TR.odd { background: #bde4cd; }
 .panel ul a.nav_link { font-size: 1em; }
 
 .nav-icon { margin-right: 6px; }
+.upcoming-matches thead {
+  border: solid 2px;
+  border:1px solid black;
 
+}
 @media screen and (max-width: 968px) { .nav-alt li a { font-size: 0.7em; } }
